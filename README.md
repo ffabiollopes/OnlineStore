@@ -1,8 +1,7 @@
 # OnlineStore
 Node.Js, SendGrid, Stripe
 
-Node.js
-Building a store
-Welcome to Node.js!
+---Building a Online Store---
+Node.js!
 Payments(Stripe)
 Servers(Express)
