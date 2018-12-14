@@ -49,7 +49,7 @@ app.post("/payment", function (req, res) {
     console.log(req.body)
   
     stripe.charges.create({
-      amount: "99999999999999999999",
+      amount: "9999",
       currency: "eur",
       description: "some product",
       source: req.body.stripeToken
